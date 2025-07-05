@@ -7,4 +7,5 @@ def checkoddeven(number):
        return "Even"
     else:
         return "Odd" 
+
 print(checkoddeven(10))
